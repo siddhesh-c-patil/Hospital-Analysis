@@ -24,6 +24,6 @@ Gender – Male/Female <br>
 Admission_date – Date of admission 
 <br>
 
-**Objective**
+# Objective
 "The objective of this project is to use SQL to explore and interpret a healthcare dataset containing patients and their appointment details. Through structured data analysis, the project seeks to uncover patterns related to patient profiles, doctor engagement, and departmental operations. These insights aim to reflect how hospitals manage appointments, allocate resources, and monitor patient activities on a day-to-day basis.”
 
