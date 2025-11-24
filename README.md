@@ -10,9 +10,9 @@ aggregations, grouping, filtering, and subqueries.
 Database includes two primary tables: Appointments and Patients
 <br>
 Appointments table include columns as below:
-Appointment_ID – Unique ID for each appointment
-Patient_ID – Linked to Patients table
-Doctor_name – Name of the doctor
+Appointment_ID – Unique ID for each appointment <br>
+Patient_ID – Linked to Patients table <br>
+Doctor_name – Name of the doctor <br>
 Appointment_date – Scheduled date
 Department – Department assigned
 
